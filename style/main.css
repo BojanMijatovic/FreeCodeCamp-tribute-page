@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+}
+
+#main {
+  text-align: center;
+}
+
+
+#img-div img {
+  width: 100%;
+  height: auto;
+}
+
+#img-div #img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#tribute-info ul li {
+  margin: 10px;
+}
